@@ -1,0 +1,3 @@
+name,is_morning,temperature,output 0,output 1,flag,username,timestamp
+홍길동,True,100,Good morning  홍길동. It is 100 degrees today,37.78,,,2023-07-26 13:23:57.748291
+홍길동,True,100,Good morning  홍길동. It is 100 degrees today,37.78,,,2023-07-26 13:23:59.591118
